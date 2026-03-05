@@ -153,8 +153,8 @@ engineering skills**:
 
 ## Dashboard Preview
 
-![Real Estate Dashboard](dashboards/Screenshot 2026-03-05 224108.png)
-![Real Estate Dashboard](dashboards/Screenshot 2026-03-05 224130.png)
+![Real Estate Dashboard](dashboards/Screenshot.png)
+![Real Estate Dashboard](dashboards/Screenshots.png)
 
 ------------------------------------------------------------------------
 # 📂 Repository Structure
