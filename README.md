@@ -151,6 +151,12 @@ engineering skills**:
 
 ------------------------------------------------------------------------
 
+## Dashboard Preview
+
+![Real Estate Dashboard](dashboards/Screenshot 2026-03-05 224108.png)
+![Real Estate Dashboard](dashboards/Screenshot 2026-03-05 224130.png)
+
+------------------------------------------------------------------------
 # 📂 Repository Structure
 
     real-estate-analytics-platform
