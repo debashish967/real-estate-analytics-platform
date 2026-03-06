@@ -153,12 +153,19 @@ engineering skills**:
 
 ## Dashboard Preview
 
-Below are sample dashboards built from the analytics views in the PostgreSQL database.
+Interactive dashboards were created using Power BI / Looker Studio to monitor real estate sales operations.
 
-### Sales & Revenue Dashboard
+Key metrics include:
+- Total Units Sold
+- Booking Revenue
+- Payment Collection Progress
+- Agreement Completion Rate
+- Unit Inventory Status
+
+### Sales Dashboard
 ![Sales Dashboard](dashboards/Screenshot.png)
 
-### Payment Tracking Dashboard
+### Payment Analytics
 ![Payment Dashboard](dashboards/Screenshots.png)
 
 ------------------------------------------------------------------------
