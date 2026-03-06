@@ -153,8 +153,13 @@ engineering skills**:
 
 ## Dashboard Preview
 
-![Real Estate Dashboard](dashboards/Screenshot.png)
-![Real Estate Dashboard](dashboards/Screenshots.png)
+Below are sample dashboards built from the analytics views in the PostgreSQL database.
+
+### Sales & Revenue Dashboard
+![Sales Dashboard](dashboards/Screenshot.png)
+
+### Payment Tracking Dashboard
+![Payment Dashboard](dashboards/Screenshots.png)
 
 ------------------------------------------------------------------------
 # 📂 Repository Structure
